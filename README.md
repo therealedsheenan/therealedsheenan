@@ -8,4 +8,4 @@ This site is run by ECMA6imize. See this [link](https://github.com/therealedshee
 - Add CMS for blog entry
 
 ### Notes
-Feel free send me suggestions on how to improve this sourcode. I will be looking forward for your messages!
+Feel free send me suggestions on how to improve this source code. I'll be looking forward for your messages!
