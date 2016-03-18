@@ -1,0 +1,17 @@
+{
+    "title": "Sheenan Tenepre",
+    "charset": "UTF-8",
+    "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+    "description": "Sheenan Tenepre's Personal portfolio site",
+    "keywords": "sheenan tenepre, portfolio, front end developer, full-stack developer, full stack, developer, programmer, web programmer, front end developer",
+    "author": "Sheenan Tenepre",
+    "robots": "index, follow",
+    "revisit": "3 month",
+    "og": {
+        "title": "The Real Ed Sheenan",
+        "type": "website",
+        "image": "",
+        "url": "http://therealedsheenan.github.io/",
+        "description": "Sheenan Tenepre, Portfolio, Personal Website"
+    }
+}

@@ -1,0 +1,66 @@
+$font-family-chemin: 'Chemin';
+$font-family-elixia: 'Elixia';
+$font-family-covesBold: 'Coves-bold';
+$font-family-covesLight: 'Coves-light';
+$font-family-open-xBold: 'OpenSans-ExtraBold';
+$font-family-open-reg: 'OpenSans-Regular';
+
+$font-size-default: 16px;
+
+$font-size-m: 16px;
+$font-size-ml: 20px;
+$font-size-l: 24px;
+$font-size-s: 12px;
+$font-size-xs: 10px;
+$font-size-xxs: 9px;
+$font-size-xxxs: 8px;
+
+$font-intro: 56px;
+
+@font-face {
+    font-family: 'Chemin';
+    src: url('../media/fonts/Chemin.ttf');
+    src: url('../media/fonts/Chemin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Elixia';
+    src: url('../media/fonts/Elixia.ttf');
+    src: url('../media/fonts/Elixia.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Coves-bold';
+    src: url('../media/fonts/Coves-Bold.otf');
+    src: url('../media/fonts/Coves-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Coves-light';
+    src: url('../media/fonts/Coves-Light.otf');
+    src: url('../media/fonts/Coves-Light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans-ExtraBold';
+    src: url('../media/fonts/OpenSans-ExtraBold.ttf');
+    src: url('../media/fonts/OpenSans-ExtraBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url('../media/fonts/OpenSans-Regular.ttf');
+    src: url('../media/fonts/OpenSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

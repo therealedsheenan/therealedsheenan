@@ -1,0 +1,11 @@
+@keyframes gradientAnimate {
+    0% { background-position:0% 50% }
+    50% { background-position:100% 50% }
+    100% { background-position:0% 50% }
+}
+
+@keyframes boxAnimate {
+    0% { border-color: green; }
+    50% { border-color: yellow; }
+    100% { border-color: red; }
+}

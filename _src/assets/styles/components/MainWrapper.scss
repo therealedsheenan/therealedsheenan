@@ -1,0 +1,11 @@
+.MainContainer {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    padding: 15px;
+    box-sizing: border-box;
+
+    background: linear-gradient(270deg, #33f4c2, #31053c, #9dcf17);
+    background-size: 600% 600%;
+    animation: gradientAnimate 10s ease infinite;
+}

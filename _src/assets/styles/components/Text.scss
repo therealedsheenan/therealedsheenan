@@ -1,0 +1,31 @@
+.xbold {
+    font-family: $font-family-open-xBold;
+}
+
+.__box {
+    border: 1px solid;
+    padding: 5px 8px;
+    transition: all 200ms ease-in;
+    &:hover {
+        font-style: italic;
+        cursor: pointer;
+        animation: boxAnimate 1s ease infinite;
+        color: rgba(255,255,255,0.6);
+    }
+}
+
+.intro {
+    margin: 0;
+    font-size: $font-size-l;
+    line-height: 1.8em;
+
+    @include mq-m {
+        font-size: $font-intro;
+        line-height: 1.5em;
+    }
+}
+
+.aboutLink {
+    color: inherit;
+    text-decoration: none;
+}

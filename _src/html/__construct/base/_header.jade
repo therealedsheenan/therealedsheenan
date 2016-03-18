@@ -1,0 +1,20 @@
+head
+    meta(charset="#{ site.charset }")
+    meta(http-equiv="X-UA-Compatible", content="IE=edge")
+    meta(name="viewport", content="#{ site.viewport }")
+    meta(name="description", content="#{ site.description }")
+    meta(name="keywords", content="#{ site.keywords }")
+    meta(name='author', content='#{ site.author }')
+    meta(name='robots', content='#{ site.robots }')
+    meta(name='revisit-after', content='#{ site.revisit }')
+
+    meta(property="og:title", content="#{ site.title }")
+    meta(property="og:type", content="#{ site.og.type }")
+    meta(property="og:image", content="#{ site.og.image }")
+    meta(property="og:url", content="#{ site.og.url }")
+    meta(property="og:description", content="#{ site.og.description }")
+        
+    title #{ site.title }
+    
+    link(rel='stylesheet', type="text/css", href="assets/styles/main.css")
+    script(type='text/javascript', src='assets/scripts/head.js')
