@@ -100,7 +100,7 @@
   "dependencies": {
     "create-file": "^1.0.1",
     "fs": "0.0.2",
-    "jquery": "^2.2.1",
+    "jquery": "^3.4.1",
     "lodash": "^4.5.1",
     "react-jade": "^2.5.0"
   }
